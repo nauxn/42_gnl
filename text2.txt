@@ -1,0 +1,6 @@
+The first line of the file is relatively short.
+This next line is significantly longer to test if your BUFFER_SIZE is smaller than the line itself, forcing your reading loop to run multiple times to accumulate the full string before returning.
+
+The line above this one was completely empty!
+1234567890
+Final line with no newline at the end
